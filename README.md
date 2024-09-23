@@ -1,5 +1,5 @@
 ## Hi there 👋
-meu nome Gabriel da Silva
+meu nome é Gabriel da Silva
 <!--
 **Gabexz/Gabexz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 estou estudando no alura
